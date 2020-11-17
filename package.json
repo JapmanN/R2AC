@@ -1,0 +1,16 @@
+{
+  "name": "r2ac",
+  "version": "1.0.0",
+  "description": "Race To A Cure code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Japman Nagra",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "novelcovid": "^3.0.0"
+  }
+}
