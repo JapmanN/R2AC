@@ -1,4 +1,10 @@
-body {font-family: 'Lato', sans-serif !important;}
+body {font-family: 'Lato', sans-serif !important; font-size: 1rem !important;}
+
+@media screen and (max-width: 480px) {
+    body {
+        font-size: 0.7rem !important;
+    }
+}
 
 thead {background: #B89CEF;}
 tr.table-head:hover {background: #B89CEF !important;}
